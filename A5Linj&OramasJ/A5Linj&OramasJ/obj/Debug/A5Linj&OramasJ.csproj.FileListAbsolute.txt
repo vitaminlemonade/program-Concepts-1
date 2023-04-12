@@ -1,0 +1,8 @@
+C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\bin\Debug\A5Linj&OramasJ.exe.config
+C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\bin\Debug\A5Linj&OramasJ.exe
+C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\bin\Debug\A5Linj&OramasJ.pdb
+C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.csproj.AssemblyReference.cache
+C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.csproj.CoreCompileInputs.cache
+C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.exe
+C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.pdb
