@@ -8,5 +8,7 @@ namespace A5Linj_OramasJ
 {
     internal class Customer
     {
+        public string email, name;
+        public int age;
     }
 }

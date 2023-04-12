@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Name of Project (File):A5LinJ&OramasJ
+ * Purpose of Program: For dealer who only sells three car brands. When the program starts, get the name of each of the three brands from the user and store them.
+ * Revision History:
+ *  Jiadong Lin, 2023.04.12: Created
+ *  
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.ConstrainedExecution;
