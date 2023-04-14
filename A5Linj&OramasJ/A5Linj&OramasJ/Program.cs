@@ -87,7 +87,7 @@ namespace A5Linj_OramasJ
                 //Main menu
                 Console.Clear();
                 Console.WriteLine("MAIN MENU");
-                Console.WriteLine("Select an options (only 1 to 5)");
+                Console.WriteLine("Select an options (only 1 to 4)");
                 Console.WriteLine("1. Add New Customer");
                 Console.WriteLine("2. Edit Existing Customer");
                 Console.WriteLine("3. Display Customers");
