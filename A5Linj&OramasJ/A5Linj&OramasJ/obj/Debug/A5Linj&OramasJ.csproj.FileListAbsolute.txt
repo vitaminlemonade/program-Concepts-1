@@ -6,3 +6,10 @@ C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\P
 C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.csproj.CoreCompileInputs.cache
 C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.exe
 C:\Users\mayli\OneDrive\Desktop\Conestoga College\Computer Programming\Level 1\PROG1925 23W Sec7-Programming Concepts I\Assignments\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.pdb
+W:\CONESTOGA\PROG1925\dual\program-Concepts-1\A5Linj&OramasJ\A5Linj&OramasJ\bin\Debug\A5Linj&OramasJ.exe.config
+W:\CONESTOGA\PROG1925\dual\program-Concepts-1\A5Linj&OramasJ\A5Linj&OramasJ\bin\Debug\A5Linj&OramasJ.exe
+W:\CONESTOGA\PROG1925\dual\program-Concepts-1\A5Linj&OramasJ\A5Linj&OramasJ\bin\Debug\A5Linj&OramasJ.pdb
+W:\CONESTOGA\PROG1925\dual\program-Concepts-1\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.csproj.AssemblyReference.cache
+W:\CONESTOGA\PROG1925\dual\program-Concepts-1\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.csproj.CoreCompileInputs.cache
+W:\CONESTOGA\PROG1925\dual\program-Concepts-1\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.exe
+W:\CONESTOGA\PROG1925\dual\program-Concepts-1\A5Linj&OramasJ\A5Linj&OramasJ\obj\Debug\A5Linj&OramasJ.pdb
