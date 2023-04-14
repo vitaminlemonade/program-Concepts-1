@@ -1,6 +1,6 @@
 ﻿/*
  * Name of Project (File):A5LinJ&OramasJ
- * Purpose of Program: For dealer who only sells three car brands. When the program starts, get the name of each of the three brands from the user and store them.
+ * Purpose of Program: To create a customer data base.
  * Revision History:
  *      Jiadong Lin, 2023.04.12: Created
  *      Jose Oramas, 2023.04.14: AddCustomer, EditCustomer, CheckEmail implementations
